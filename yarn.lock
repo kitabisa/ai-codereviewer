@@ -229,10 +229,10 @@ asynckit@^0.4.0:
   resolved "https://registry.yarnpkg.com/asynckit/-/asynckit-0.4.0.tgz#c79ed97f7f34cb8f2ba1bc9790bcc366474b4b79"
   integrity sha512-Oei9OH4tRh0YqU3GxhX79dM/mwVgvbZJaSNaRk+bshkj0S5cfHcgYakreBjrHwatXKbz+IoIdYLxrKim2MjW0Q==
 
-balanced-match@^1.0.0:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-1.0.2.tgz#e83e3a7e3f300b34cb9d87f615fa0cbf357690ee"
-  integrity sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==
+balanced-match@^4.0.2:
+  version "4.0.4"
+  resolved "https://registry.yarnpkg.com/balanced-match/-/balanced-match-4.0.4.tgz#bfb10662feed8196a2c62e7c68e17720c274179a"
+  integrity sha512-BLrgEcRTwX2o6gGxGOCNyMvGSp35YofuYzw9h1IMTRmKqttAZZVU67bdb9Pr2vUHA8+j3i2tJfjO6C6+4myGTA==
 
 base-64@^0.1.0:
   version "0.1.0"
@@ -244,12 +244,12 @@ before-after-hook@^2.2.0:
   resolved "https://registry.yarnpkg.com/before-after-hook/-/before-after-hook-2.2.3.tgz#c51e809c81a4e354084422b9b26bad88249c517c"
   integrity sha512-NzUnlZexiaH/46WDhANlyR2bXRopNg4F/zuSA3OpZnllCUgRaOF2znDioDWrmbNVsuZk6l9pMquQB38cfBZwkQ==
 
-brace-expansion@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/brace-expansion/-/brace-expansion-2.0.1.tgz#1edc459e0f0c548486ecf9fc99f2221364b9a0ae"
-  integrity sha512-XnAIvQ8eM+kC6aULx6wuQiwVsnzsi9d3WxzV3FpWTGA19F621kwdbsAcFKXgKUHZWsy+mY6iL1sHTxWEFCytDA==
+brace-expansion@^5.0.2:
+  version "5.0.3"
+  resolved "https://registry.yarnpkg.com/brace-expansion/-/brace-expansion-5.0.3.tgz#6a9c6c268f85b53959ec527aeafe0f7300258eef"
+  integrity sha512-fy6KJm2RawA5RcHkLa1z/ScpBeA762UF9KmZQxwIbDtRJrgLzM10depAiEQ+CXYcoiqW1/m96OAAoke2nE9EeA==
   dependencies:
-    balanced-match "^1.0.0"
+    balanced-match "^4.0.2"
 
 charenc@0.0.2:
   version "0.0.2"
@@ -366,12 +366,12 @@ mime-types@^2.1.12:
   dependencies:
     mime-db "1.52.0"
 
-minimatch@^7.4.2:
-  version "7.4.2"
-  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-7.4.2.tgz#157e847d79ca671054253b840656720cb733f10f"
-  integrity sha512-xy4q7wou3vUoC9k1xGTXc+awNdGaGVHtFUaey8tiX4H1QRc04DZ/rmDFwNm2EBsuYEhAZ6SgMmYf3InGY6OauA==
+minimatch@^10.2.1:
+  version "10.2.1"
+  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-10.2.1.tgz#9d82835834cdc85d5084dd055e9a4685fa56e5f0"
+  integrity sha512-MClCe8IL5nRRmawL6ib/eT4oLyeKMGCghibcDWK+J0hh0Q8kqSdia6BvbRMVk6mPa6WqUa5uR2oxt6C5jd533A==
   dependencies:
-    brace-expansion "^2.0.1"
+    brace-expansion "^5.0.2"
 
 ms@^2.0.0:
   version "2.1.3"

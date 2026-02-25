@@ -366,10 +366,10 @@ mime-types@^2.1.12:
   dependencies:
     mime-db "1.52.0"
 
-minimatch@^7.4.2:
-  version "7.4.2"
-  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-7.4.2.tgz#157e847d79ca671054253b840656720cb733f10f"
-  integrity sha512-xy4q7wou3vUoC9k1xGTXc+awNdGaGVHtFUaey8tiX4H1QRc04DZ/rmDFwNm2EBsuYEhAZ6SgMmYf3InGY6OauA==
+minimatch@^7.4.7:
+  version "7.4.7"
+  resolved "https://registry.yarnpkg.com/minimatch/-/minimatch-7.4.7.tgz#a27ce8f2b8cb7d662fd416c779504f121173d54a"
+  integrity sha512-t3SrsBRdssa8F/nFEadAxveFpnbhlbq7FiizzOMqx69w9EbmNEzcKiPkc60udvrOkWsTMm6jmnQP1c5rbdVfSA==
   dependencies:
     brace-expansion "^2.0.1"
 
